@@ -1,182 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea64a403-545b-4630-8ccd-12233260a308" name="Default" comment="test">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/app/css/fonts/linecons/linecons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/app/img/login/login.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/mp3/saveme.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/17-12/snow/snow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/17-12/snow/town2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/fonts/RuiHeiXiTi.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/index/img/index.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/14915.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/319280.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/319280_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali10.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali22_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali25.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali29.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali2_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali30_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali30_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali31.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali32.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali35.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali37.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali40.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali40_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali42.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali44.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali45.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali45_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali46.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali49.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali50_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali50_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali51.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali52.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali53.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali57.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali57.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali58.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali59.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali59_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali60.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali62.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali63.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali64.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali65.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali66.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali67.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali68.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali69.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali71.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali75.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali75_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali76.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali76_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali77.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali8.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali8_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/iali9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/img/love.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/artifacts/XXT_web_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/kotlinc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__antlr_antlr_2_7_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__asm_asm_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__cglib_cglib_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__commons_collections_commons_collections_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__javassist_javassist_3_12_0_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__javax_transaction_jta_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_34.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__org_hibernate_hibernate_commons_annotations_3_2_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__org_hibernate_hibernate_core_3_6_10_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_3_6_10_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_0_api_1_0_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__org_json_json_20080701.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_13_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_1_11_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__org_springframework_spring_aop_4_3_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__org_springframework_spring_beans_4_3_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__org_springframework_spring_context_4_3_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__org_springframework_spring_core_4_3_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__org_springframework_spring_expression_4_3_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__org_springframework_spring_orm_4_3_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__org_springframework_spring_test_4_3_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__org_springframework_spring_tx_4_3_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__org_springframework_spring_web_4_3_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/XXT_web.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/java/com/xxt/controller/UrlController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/WEB-INF/pages/app/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/WEB-INF/pages/app/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/WEB-INF/pages/app/make.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/WEB-INF/pages/flower.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/WEB-INF/pages/home.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/WEB-INF/pages/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/WEB-INF/pages/index_cav.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/WEB-INF/pages/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/WEB-INF/pages/photo_wall.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/WEB-INF/pages/snow.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/WEB-INF/pages/story.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/app/css/index/component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/app/css/index/demo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/app/css/index/icons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/app/css/index/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/app/css/index/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/app/css/login/login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/app/js/index/classie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/app/js/index/make.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/app/js/index/mlpushmenu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/app/js/index/modernizr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/app/js/login/login.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/assets/plugins/bootstrap/css/bootstrap-rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/assets/plugins/bootstrap/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/assets/plugins/bootstrap/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/assets/plugins/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/assets/plugins/bootstrap/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/assets/plugins/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/assets/plugins/bootstrap/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/assets/plugins/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/assets/plugins/bootstrap/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/assets/plugins/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/assets/plugins/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/assets/plugins/bootstrap/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/assets/plugins/jquery/jquery-migrate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/assets/plugins/jquery/jquery-migrate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/assets/plugins/jquery/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/assets/plugins/jquery/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/assets/plugins/jquery/jquery.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/17-12/snow/default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/17-12/snow/snow-plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/index/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/index/js/font_change.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/photo_wall/all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/photo_wall/all.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/photo_wall/all.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/photo_wall/love.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../XXT_web/src/main/webapp/myAssets/story/style.css" />
+    <list default="true" id="ea64a403-545b-4630-8ccd-12233260a308" name="Default" comment="导入">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../XXT_web/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../XXT_web/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../XXT_web/out/" />
     <ignored path="$PROJECT_DIR$/../XXT_web/target/" />
@@ -1134,7 +960,7 @@
       <workItem from="1514879555161" duration="4724000" />
       <workItem from="1514940546651" duration="6898000" />
       <workItem from="1515026155726" duration="1067000" />
-      <workItem from="1515029340798" duration="393000" />
+      <workItem from="1515029340798" duration="1994000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1515029680443</created>
@@ -1143,11 +969,18 @@
       <option name="project" value="LOCAL" />
       <updated>1515029680443</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="导入">
+      <created>1515029793728</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1515029793728</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82539000" />
+    <option name="totallyTimeSpent" value="84140000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1230,7 +1063,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="导入" />
+    <option name="LAST_COMMIT_MESSAGE" value="导入" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1517,6 +1351,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="81" column="33" lean-forward="true" selection-start-line="81" selection-start-column="33" selection-end-line="81" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
